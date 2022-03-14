@@ -17,5 +17,5 @@ For better help and using the project please read the "read me.txt" file.
 Thanks from Tahmid Nishat
 
 ### Live Project view:
-http://studentadd.tahmid-ni7.cf/
+
 You can see this project by clicking the link...
