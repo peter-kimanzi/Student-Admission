@@ -18,4 +18,4 @@ Thanks from Tahmid Nishat
 
 ### Live Project view:
 
-You can see this project by clicking the link...
+view project
