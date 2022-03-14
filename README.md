@@ -14,8 +14,6 @@ It is a very simple project and I build it with ** PHP** practise...
 
 
 
-Thanks from Tahmid Nishat
-
 ### Live Project view:
 
 view project
