@@ -17,7 +17,3 @@ It is a very simple project and I build it with ** PHP** practise...
 - Update and delete student
 
 
-
-### Live Project view:
-
-view project
