@@ -3,6 +3,8 @@ It is a simple insert, view, delete, update project in PHP with mysql database. 
 
 download zip file or clone this repo
 
+all requirements are available in this file no need to download anything
+
 For protect from HTML injection I use some function here, these are-
 - strip_tags()
 - mysqli_real_escape_string()
