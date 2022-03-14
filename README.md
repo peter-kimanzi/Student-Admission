@@ -12,7 +12,7 @@ It is a very simple project and I build it with ** PHP** practise...
 - View students informations
 - Update and delete student
 
-For better help and using the project please read the "read me.txt" file.
+
 
 Thanks from Tahmid Nishat
 
